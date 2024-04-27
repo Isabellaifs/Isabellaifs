@@ -1,15 +1,15 @@
 # Isabellaifs 
 
-Natural de  Salvador-BA, mas moro em Lisboa-PT há cerca de 6 anos. pós graduando em Engenharia de Software com enfase em QA e Teste. 
-Meu primeiro “Hello World” foi há 1 ano, quando decidi fazer uma transição na minha carreira e inicar os estudos na área de programação. 
-Apaixonada por ciclismo, músicas e natureza, alguns dos meus hobbies são andar de bicicleta, viajar e fazer trilhas. 
+Originally from Salvador-BA, but I have lived in Lisbon-PT for around 6 years. Postgraduate in Software Engineering with an emphasis on QA and Testing.
+My first “Hello World” was 1 year ago, when I decided to make a transition in my career and start studying in the programming field.
+Passionate about cycling, music and nature, some of my hobbies are cycling, traveling and hiking.
 
-## Conecte-se comigo
+## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/isabellaifs/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bellaifs)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Isabellaifs)
 ## Hobbies
-Sou ciclista, me segue no Strava 
+I'm a cyclist, follow me on Strava
 
 [![Strava](https://img.shields.io/badge/Strava-100000?style=for-the-badge&logo=Strava&logoColor=white)](https://strava.app.link/nEoE58668Ib)
 
